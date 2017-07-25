@@ -1,0 +1,9 @@
+﻿  Source.cpp
+\\psf\home\desktop\mandelbrot\mandelbrot\source.cpp(206): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\psf\home\desktop\mandelbrot\mandelbrot\source.cpp(207): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+\\psf\home\desktop\mandelbrot\mandelbrot\source.cpp(212): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\psf\home\desktop\mandelbrot\mandelbrot\source.cpp(213): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+\\psf\home\desktop\mandelbrot\mandelbrot\source.cpp(218): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+\\psf\home\desktop\mandelbrot\mandelbrot\source.cpp(219): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  MandelBrot.vcxproj -> \\psf\Home\Desktop\MandelBrot\x64\Debug\MandelBrot.exe
+  MandelBrot.vcxproj -> \\psf\Home\Desktop\MandelBrot\x64\Debug\MandelBrot.pdb (Partial PDB)
